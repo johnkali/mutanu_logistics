@@ -1,5 +1,14 @@
 import SEO from "../components/seo/SEO";
 
+import Hero from "../components/sections/Hero";
+import ServicesIntro from "../components/sections/ServicesIntro";
+import ApproachSection from "../components/sections/ApproachSection";
+import ExperienceSection from "../components/sections/ExperienceSection";
+import ServicesShowcase from "../components/sections/ServicesShowcase";
+import RegionalSection from "../components/sections/RegionalSection";
+import ReviewsSlider from "../components/sections/ReviewsSlider";
+import HomeCTA from "../components/sections/HomeCTA";
+
 export default function Home() {
   return (
     <>
@@ -9,17 +18,21 @@ export default function Home() {
         path="/"
       />
 
-      <section className="mx-auto max-w-7xl px-5 py-24 sm:px-6 lg:px-8">
-        <p className="text-sm font-semibold uppercase tracking-widest text-[#d9232e]">
-          Home
-        </p>
+      <Hero />
 
-        <h1 className="mt-3 text-4xl font-bold text-[#0b1b2b]">Mutanu</h1>
+      <ServicesIntro />
 
-        <p className="mt-4 text-slate-600">
-          Home page development starts next.
-        </p>
-      </section>
+      <ApproachSection />
+
+      <ExperienceSection />
+
+      <ServicesShowcase />
+
+      <RegionalSection />
+
+      <ReviewsSlider />
+
+      <HomeCTA />
     </>
   );
 }
