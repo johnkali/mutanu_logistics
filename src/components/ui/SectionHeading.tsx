@@ -23,7 +23,7 @@ function SectionHeading({
         </p>
       )}
 
-      <h2 className="mt-3 text-3xl font-bold leading-tight tracking-tight text-[#0b1b2b] sm:text-4xl lg:text-4xl">
+      <h2 className="mt-3 text-3xl font-semibold leading-[1.15] tracking-tight text-[#0b1b2b] sm:text-4xl lg:text-5xl">
         {title}
       </h2>
 

@@ -20,7 +20,7 @@ function ServicesShowcase() {
               key={service.title}
               className="group overflow-hidden bg-white"
             >
-              <div className="aspect-[4/3] overflow-hidden">
+              <div className="aspect-4/3 overflow-hidden">
                 <img
                   src={service.image}
                   alt={service.title}
