@@ -7,7 +7,7 @@ function AboutHero() {
       {/* Background image */}
       <div className="absolute inset-0 -z-20">
         <img
-          src="/public/images/about/about-hero.jpg"
+          src="/images/about/about-hero.jpg"
           alt=""
           className="h-full w-full object-cover"
         />
