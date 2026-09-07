@@ -12,13 +12,15 @@ function SiteFooter() {
               <img
                 src="/images/Mutanu-Logo-Final.png"
                 alt="Mutanu"
-                className="h-10 w-auto brightness-0 invert"
+                className="h-20 w-auto"
               />
             </Link>
 
             <p className="mt-5 max-w-sm text-sm leading-7 text-slate-300">
-              Trusted freight and logistics support tailored to your business
-              needs.
+              Specialised freight, customs clearance, and logistics support
+              tailored to unique corporate and private requirements. Delivering
+              with discretion and absolute reliability across Kenya and South
+              Africa.
             </p>
           </div>
 
