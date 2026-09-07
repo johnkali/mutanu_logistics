@@ -41,7 +41,7 @@ export default function ContactHero() {
             </h1>
 
             <p className="mt-3 max-w-xl text-xs leading-6 text-slate-300 sm:text-sm">
-              Let&apos;s discuss your freight and logistics requirements.
+              Contact our secure logistical desks directly.
             </p>
           </div>
         </div>
