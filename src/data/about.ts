@@ -1,30 +1,35 @@
 // Why clients choose Mutanu
 export const aboutReasons = [
   {
-    title: "Absolute Reliability",
+    title: "Absolute Discretion",
     description:
-      "We understand that logistics requires consistency, attention to detail and dependable support from start to finish.",
+      "Our tracking, handling, and billing infrastructure is built with security first. \
+      Your commercial records and corporate relationships remain completely classified.",
     points: [
-      "Reliable support",
-      "Consistent communication",
-      "Attention to detail",
+      "Direct reliable support",
+      "Customised access control",
+      "Non-disclosure compliance",
     ],
   },
   {
     title: "Proven Reliability",
     description:
-      "Our experience gives us a practical understanding of the requirements involved in freight, customs and logistics.",
+      "With dedicated agents stationed at ports of entry, we anticipate delays, maintain proactive backup systems, and keep cargo flowing reliably.",
     points: [
-      "Practical experience",
-      "Regional knowledge",
-      "Professional approach",
+      "Dedicated border dispatchers",
+      "Redundant freight routing",
+      "Real-time automated status updates",
     ],
   },
   {
     title: "Personalised Service",
     description:
-      "We take the time to understand each client’s requirements and provide support suited to their specific needs.",
-    points: ["Tailored solutions", "Direct support", "Client-focused service"],
+      "You get a single professional logistics manager managing your account directly. No generic call centers, no generic packages.",
+    points: [
+      "Single point of contact",
+      "Flexible billing options",
+      "Client-focused service",
+    ],
   },
 ];
 
