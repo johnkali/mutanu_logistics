@@ -14,14 +14,17 @@ export default function AboutIntro() {
 
             <div className="mt-6 max-w-2xl space-y-4 text-sm leading-7 text-slate-600">
               <p>
-                Mutanu provides specialised freight, customs clearance and
-                logistics support tailored to individual client requirements.
+                Mutanu Logistics was created with a clear imperative: to service
+                clients who require premium logistics without compromise. Our
+                operations team is seasoned in handling sensitive contracts,
+                securing correct customs approvals swiftly, and treating cargo
+                manifests with full industrial discretion.
               </p>
 
               <p>
-                We understand that every movement comes with its own
-                requirements. Our approach is built around dependable service,
-                clear communication and practical logistics support.
+                Based strategically in Nairobi and Johannesburg, we bridge key
+                import-export avenues between Sub-Saharan Africa and global
+                markets with unmatched professional oversight.
               </p>
             </div>
           </div>
