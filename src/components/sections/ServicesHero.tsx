@@ -41,8 +41,8 @@ export default function ServicesHero() {
             </h1>
 
             <p className="mt-3 max-w-xl text-xs leading-6 text-slate-300 sm:text-sm">
-              Practical freight and logistics support built around your
-              requirements.
+              Delivering secure, customized logistics with complete
+              professionalism.
             </p>
           </div>
         </div>
