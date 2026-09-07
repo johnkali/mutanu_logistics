@@ -12,7 +12,7 @@ export default function SiteHeader() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-slate-200 bg-white">
-      <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-5 sm:px-6 lg:px-8">
+      <div className="mx-auto flex h-20 max-w-8xl items-center justify-between px-5 sm:px-6 lg:px-8">
         {/* Logo */}
         <Link
           to="/"
@@ -23,7 +23,7 @@ export default function SiteHeader() {
           <img
             src="/images/Mutanu-Logo-Final.png"
             alt="Mutanu"
-            className="h-10 w-auto sm:h-11"
+            className="h-20 w-auto sm:h-11"
           />
         </Link>
 

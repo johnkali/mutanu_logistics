@@ -64,8 +64,8 @@ function Hero() {
               rel="noopener noreferrer"
               className="inline-flex min-h-12 items-center justify-center gap-2 rounded-sm border border-white/30 bg-white/5 px-6 py-3 text-sm font-semibold text-white backdrop-blur-sm transition hover:bg-white/10 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-[#071522]"
             >
-              <MessageCircle className="h-4 w-4" />
-              Talk to Us
+              <MessageCircle className="h-4 w-4 " />
+              Chat on WhatsApp
             </a>
           </div>
         </div>
