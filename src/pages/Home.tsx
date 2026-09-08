@@ -6,7 +6,8 @@ import ApproachSection from "../components/sections/ApproachSection";
 import ExperienceSection from "../components/sections/ExperienceSection";
 import ServicesShowcase from "../components/sections/ServicesShowcase";
 import RegionalSection from "../components/sections/RegionalSection";
-import ReviewsSlider from "../components/sections/ReviewsSlider";
+// import ReviewsSlider from "../components/sections/ReviewsSlider";
+import Testimonials from "../components/sections/Testimonials";
 import HomeCTA from "../components/sections/HomeCTA";
 
 export default function Home() {
@@ -30,7 +31,11 @@ export default function Home() {
 
       <RegionalSection />
 
-      <ReviewsSlider />
+      <Testimonials
+        eyebrow="Client References"
+        title="Trusted Experience"
+        description="Our clients' experience reflects the reliability and care we bring to every assignment."
+      />
 
       <HomeCTA />
     </>

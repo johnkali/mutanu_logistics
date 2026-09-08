@@ -8,7 +8,7 @@ export interface Testimonial {
 export const testimonials: Testimonial[] = [
   {
     quote:
-      "Mutanu Holdings provided highly satisfactory freight and logistics services for a personal vehicle valued at over KSh 4 million. We would gladly recommend their services to potential clients.",
+      "Mutanu Holdings provided highly satisfactory freight and logistics services for a personal motor vehicle valued at over KSh 4 million. We would gladly recommend their services to potential clients.",
     organization: "International Finance Corporation",
     person: "Catherine Masinde",
     role: "World Bank Group",
@@ -24,7 +24,7 @@ export const testimonials: Testimonial[] = [
 
   {
     quote:
-      "Emmanuel Mbevi has handled shipments of Africology products from South Africa to Kenya for us, including substantial orders requiring customs coordination.",
+      "Emmanuel Mbevi has handled shipments of Africology products from South Africa to Kenya for us. These were substantial orders requiring customs coordination, which he worked tirelessly to manage.",
     organization: "Virgin Limited Edition",
     person: "Helen Cain",
     role: "Group Spa Manager",
@@ -43,6 +43,5 @@ export const testimonials: Testimonial[] = [
       "Emmanuel Mbevi packed, shipped and airfreighted personal effects and vehicles for returning officers of our Mission over several years. The Mission was satisfied with his performance.",
     organization: "High Commission of the Republic of Kenya",
     person: "For the High Commissioner",
-    role: "",
   },
 ];

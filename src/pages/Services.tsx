@@ -2,6 +2,7 @@ import SEO from "../components/seo/SEO";
 import ServicesHero from "../components/sections/ServicesHero";
 import ServicesList from "../components/sections/ServicesList";
 import ServicesCTA from "../components/sections/ServicesCTA";
+import Testimonials from "../components/sections/Testimonials";
 
 export default function Services() {
   return (
@@ -15,6 +16,8 @@ export default function Services() {
       <ServicesHero />
 
       <ServicesList />
+
+      <Testimonials />
 
       <ServicesCTA />
     </>
