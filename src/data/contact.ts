@@ -1,7 +1,8 @@
 export const contactDetails = {
-  whatsappNumber: "254700000000", // Replace with the actual WhatsApp number
-  phone: "+254 700 000 000", // Replace before launch
-  email: "info@mutanu.co.ke", // Replace with the actual email
+  phone: "+254700000000",
+  whatsapp: "254700000000",
+  email: "info@mutanu.com",
+  location: "Kenya",
 };
 
 export const serviceOptions = [
