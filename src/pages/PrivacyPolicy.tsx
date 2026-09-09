@@ -6,7 +6,7 @@ export default function PrivacyPolicy() {
       {/* Page header */}
       <section className="bg-[#0b1b2b] px-5 py-16 sm:px-8 sm:py-20 lg:px-10 lg:py-24">
         <div className="mx-auto max-w-6xl">
-          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#d9232e]">
+          <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
             Legal
           </p>
 
@@ -14,7 +14,7 @@ export default function PrivacyPolicy() {
             Privacy Policy
           </h1>
 
-          <p className="mt-4 max-w-2xl text-sm leading-6 text-slate-300 sm:text-base">
+          <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
             How Mutanu Holdings collects, uses and protects information provided
             through this website.
           </p>
@@ -24,22 +24,24 @@ export default function PrivacyPolicy() {
       {/* Policy content */}
       <section className="px-5 py-12 sm:px-8 sm:py-16 lg:px-10 lg:py-20">
         <article className="mx-auto max-w-4xl">
-          <p className="mb-8 text-xs text-slate-500">
+          <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
             Last updated: September 2026
           </p>
 
           <div className="space-y-10">
             <section>
-              <h2>1. Information We Collect</h2>
+              <h2 className="font-heading text-xl font-semibold uppercase text-[#0b1b2b] sm:text-2xl">
+                1. Information We Collect
+              </h2>
 
-              <p>
+              <p className="text-sm leading-7 text-slate-600 sm:text-base">
                 When you contact us or submit an enquiry through this website,
                 we may collect information such as your name, email address,
                 phone number, service requirements and other information you
                 voluntarily provide.
               </p>
 
-              <p>
+              <p className="text-sm leading-7 text-slate-600 sm:text-base">
                 We may also collect limited technical information about website
                 usage, such as browser type, device information and general
                 website activity.
@@ -47,11 +49,15 @@ export default function PrivacyPolicy() {
             </section>
 
             <section>
-              <h2>2. How We Use Your Information</h2>
+              <h2 className="font-heading text-xl font-semibold uppercase text-[#0b1b2b] sm:text-2xl">
+                2. How We Use Your Information
+              </h2>
 
-              <p>Information provided through this website may be used to:</p>
+              <p className="text-sm leading-7 text-slate-600 sm:text-base">
+                Information provided through this website may be used to:
+              </p>
 
-              <ul>
+              <ul className="mt-4 list-disc space-y-2 pl-5 text-sm leading-7 text-slate-600 sm:text-base">
                 <li>Respond to enquiries and requests.</li>
                 <li>Understand your freight or logistics requirements.</li>
                 <li>Provide information about our services.</li>
@@ -62,9 +68,11 @@ export default function PrivacyPolicy() {
             </section>
 
             <section>
-              <h2>3. Information Sharing</h2>
+              <h2 className="font-heading text-xl font-semibold uppercase text-[#0b1b2b] sm:text-2xl">
+                3. Information Sharing
+              </h2>
 
-              <p>
+              <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
                 Mutanu Holdings does not sell personal information. Information
                 may be shared where reasonably necessary to respond to an
                 enquiry, provide requested services, operate the website, or
@@ -73,24 +81,28 @@ export default function PrivacyPolicy() {
             </section>
 
             <section>
-              <h2>4. Data Security</h2>
+              <h2 className="font-heading text-xl font-semibold uppercase text-[#0b1b2b] sm:text-2xl">
+                4. Data Security
+              </h2>
 
-              <p>
+              <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
                 We take reasonable measures to protect information submitted
                 through this website against unauthorised access, misuse or
                 disclosure.
               </p>
 
-              <p>
+              <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
                 However, no transmission of information over the internet can be
                 guaranteed to be completely secure.
               </p>
             </section>
 
             <section>
-              <h2>5. Data Retention</h2>
+              <h2 className="font-heading text-xl font-semibold uppercase text-[#0b1b2b] sm:text-2xl">
+                5. Data Retention
+              </h2>
 
-              <p>
+              <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
                 We retain information only for as long as reasonably necessary
                 for the purpose for which it was collected, to maintain
                 appropriate business records, or to meet applicable legal
@@ -99,9 +111,11 @@ export default function PrivacyPolicy() {
             </section>
 
             <section>
-              <h2>6. Your Rights</h2>
+              <h2 className="font-heading text-xl font-semibold uppercase text-[#0b1b2b] sm:text-2xl">
+                6. Your Rights
+              </h2>
 
-              <p>
+              <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
                 Depending on applicable law, you may have rights regarding the
                 personal information we hold about you, including requesting
                 access, correction or deletion of your information.
@@ -109,9 +123,11 @@ export default function PrivacyPolicy() {
             </section>
 
             <section>
-              <h2>7. Cookies</h2>
+              <h2 className="font-heading text-xl font-semibold uppercase text-[#0b1b2b] sm:text-2xl">
+                7. Cookies
+              </h2>
 
-              <p>
+              <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
                 Our website may use cookies or similar technologies to support
                 website functionality, understand website usage and improve user
                 experience.
@@ -119,9 +135,11 @@ export default function PrivacyPolicy() {
             </section>
 
             <section>
-              <h2>8. Third-Party Services</h2>
+              <h2 className="font-heading text-xl font-semibold uppercase text-[#0b1b2b] sm:text-2xl">
+                8. Third-Party Services
+              </h2>
 
-              <p>
+              <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
                 The website may use third-party services such as analytics,
                 hosting, maps, communication or messaging services. These
                 services may process information according to their own privacy
@@ -130,9 +148,11 @@ export default function PrivacyPolicy() {
             </section>
 
             <section>
-              <h2>9. Contact Us</h2>
+              <h2 className="font-heading text-xl font-semibold uppercase text-[#0b1b2b] sm:text-2xl">
+                9. Contact Us
+              </h2>
 
-              <p>
+              <p className="mt-4 text-sm leading-7 text-slate-600 sm:text-base">
                 If you have questions about this Privacy Policy or how your
                 information is handled, please contact Mutanu Holdings through
                 the contact details provided on this website.
