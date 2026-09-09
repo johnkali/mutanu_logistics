@@ -20,7 +20,7 @@ export default function SiteFooter() {
               <img
                 src="/images/Mutanu-Logo-Final.png"
                 alt="Mutanu Holdings"
-                className="h-10 w-auto sm:h-11"
+                className="h-20 w-auto sm:h-11 lg:h-20 brightness-0 invert"
               />
             </Link>
 
