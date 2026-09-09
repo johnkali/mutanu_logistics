@@ -4,7 +4,7 @@ import { contactDetails } from "../../data/contact";
 
 export default function ContactDetails() {
   // Create the WhatsApp URL from the configured number.
-  const whatsappUrl = `https://wa.me/${contactDetails.whatsappNumber}`;
+  const whatsappUrl = `https://wa.me/${contactDetails.whatsapp}`;
 
   return (
     <aside className="lg:pt-1">
