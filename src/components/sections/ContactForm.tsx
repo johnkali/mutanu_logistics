@@ -120,7 +120,6 @@ export default function ContactForm() {
   /*
    * Validate the form before sending.
    *
-   * SyntheticEvent is used instead of the deprecated FormEvent type.
    */
   const handleSubmit = async (event: React.SyntheticEvent<HTMLFormElement>) => {
     event.preventDefault();
