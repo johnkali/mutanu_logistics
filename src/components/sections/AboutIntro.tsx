@@ -9,16 +9,12 @@ export default function AboutIntro() {
           <div>
             <SectionHeading
               eyebrow="Who We Are"
-              title="Discretion First. Absolute Reliability Always."
+              title="Built on Trust. Driven by Reliability."
             />
 
             <div className="mt-6 max-w-2xl space-y-4 text-sm leading-7 text-slate-600">
               <p>
-                Mutanu Logistics was created with a clear imperative: to service
-                clients who require premium logistics without compromise. Our
-                operations team is seasoned in handling sensitive contracts,
-                securing correct customs approvals swiftly, and treating cargo
-                manifests with full industrial discretion.
+                Mutanu Logistics was created with a clear imperative: to serve clients who require premium logistics without compromise. Our operations team is seasoned in handling sensitive contracts, securing the correct customs approvals swiftly, and managing cargo manifests with the highest level of accuracy, care and confidentiality.
               </p>
 
               <p>

@@ -37,11 +37,7 @@ export default function ServicesIntro() {
             <p className="text-sm leading-7 text-slate-600 sm:text-base sm:leading-8">
               Logistics Support, Delivered with Care.
               <br /> <br />
-              At Mutanu, we take a practical and personalized approach to
-              freight and logistics, working closely with our clients to
-              understand their requirements and provide solutions suited to each
-              situation. Our approach is built on reliability, discretion,
-              adaptability and personal service.
+              At Mutanu, we take a practical and personalized approach to freight and logistics, working closely with our clients to understand their requirements and provide solutions suited to each situation. Our approach is built on reliability, adaptability and personal service.
             </p>
             {/* 
             <Link

@@ -5,7 +5,7 @@ const experiencePoints = [
   "Practical understanding of freight and logistics requirements",
   "Support tailored to individual client needs",
   "Experience across regional trade routes",
-  "A focus on reliability, discretion and clear communication",
+  "A focus on reliability, professionalism and clear communication",
 ];
 
 export default function ExperienceSection() {

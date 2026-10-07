@@ -1,24 +1,23 @@
 // Why clients choose Mutanu
 export const aboutReasons = [
   {
-    title: "Absolute Discretion",
+    title: "Secure & Accountable",
     description:
-      "Our tracking, handling, and billing infrastructure is built with security first. \
-      Your commercial records and corporate relationships remain completely classified.",
+      "Our tracking, handling, and billing infrastructure is built with security and accountability at its core. Your commercial records and corporate relationships are handled with care and protected throughout every stage of the logistics process.",
     points: [
-      "Direct reliable support",
-      "Customised access control",
-      "Non-disclosure compliance",
+      "Direct, reliable support",
+      "Controlled access to information",
+      "Strong confidentiality standards"
     ],
   },
   {
     title: "Proven Reliability",
     description:
-      "With dedicated agents stationed at ports of entry, we anticipate delays, maintain proactive backup systems, and keep cargo flowing reliably.",
+      "With dedicated agents stationed at key ports of entry, we anticipate delays, maintain proactive backup systems, and keep cargo moving efficiently across borders and into its destination",
     points: [
       "Dedicated border dispatchers",
       "Redundant freight routing",
-      "Real-time automated status updates",
+      "Proactive shipment updates",
     ],
   },
   {
