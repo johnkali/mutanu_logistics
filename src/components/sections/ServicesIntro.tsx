@@ -5,15 +5,15 @@ import SectionHeading from "../ui/SectionHeading";
 const features = [
   {
     icon: Lock,
-    title: "Discretion",
+    title: "Trusted Experience",
     description:
-      "Every contract, shipment detail, and client profile is treated with strict corporate confidentiality.",
+      "With decades of experience in freight and logistics, we bring practical knowledge to complex shipping requirements.",
   },
   {
     icon: Shield,
     title: "Reliability",
     description:
-      "Predictable, transparent operations backed by real-time tracking, proactive status briefs, and failsafe execution.",
+      "We coordinate every shipment with care and consistency, keeping your cargo moving safely and according to plan.",
   },
   {
     icon: Sparkles,
@@ -35,7 +35,7 @@ export default function ServicesIntro() {
 
           <div className="max-w-2xl lg:ml-auto">
             <p className="text-sm leading-7 text-slate-600 sm:text-base sm:leading-8">
-              Every logistics requirement is different.
+              Logistics Support, Delivered with Care.
               <br /> <br />
               At Mutanu, we take a practical and personalized approach to
               freight and logistics, working closely with our clients to

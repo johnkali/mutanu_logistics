@@ -36,7 +36,7 @@ function Hero() {
             className="max-w-5xl text-3xl font-bold uppercase leading-[1.05] tracking-tight text-white sm:text-4xl lg:text-5xl"
           >
             Trusted Freight & Logistics Support,
-            <span className="mt-2 block"> Delivered with Discretion.</span>
+            <span className="mt-2 block"> Delivered with Precision.</span>
           </h1>
 
           {/* Description */}
