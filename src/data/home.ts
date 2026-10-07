@@ -2,7 +2,7 @@ export const homeServices = [
   {
     title: "Freight Forwarding",
     description:
-      "Reliable freight forwarding solutions for a range of cargo requirements, with support across air, sea, rail and road transportation.",
+      "Reliable freight forwarding solutions for a range of cargo requirements, with dependable road transportation support.",
     image: "/images/freight-forwarding.jpg",
   },
   {
