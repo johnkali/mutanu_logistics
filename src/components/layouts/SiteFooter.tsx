@@ -25,8 +25,7 @@ export default function SiteFooter() {
             </Link>
 
             <p className="mt-6 max-w-sm text-sm leading-6 text-slate-300">
-              Trusted freight and logistics support delivered with discretion,
-              reliability and personalised service.
+              Trusted freight and logistics support built on reliability, professionalism and personalised service.
             </p>
 
             {/* WhatsApp */}
