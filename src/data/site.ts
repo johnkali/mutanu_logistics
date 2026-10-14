@@ -5,9 +5,9 @@ export const siteConfig = {
   url: "https://www.mutanu.com",
 
   contact: {
-    phone: "+254 700 000 000",
-    email: "info@mutanu.com",
-    whatsapp: "254700000000",
+  phone: "+27 711 049 465 / +27 635 11 22 85",
+  email: "info@mutanuafrica.com",
+    whatsapp: "+254 720 997 309",
   },
 
   navigation: [

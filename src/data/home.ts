@@ -3,19 +3,19 @@ export const homeServices = [
     title: "Freight Forwarding",
     description:
       "Reliable freight forwarding solutions for a range of cargo requirements, with dependable road transportation support.",
-    image: "/images/freight-forwarding.jpg",
+    image: "/images/freight-forwading.JPG",
   },
   {
     title: "Customs Clearance",
     description:
       "Practical support with customs clearance and the documentation required to help goods move through the necessary processes efficiently.",
-    image: "/images/customs-clearance.jpg",
+    image: "/images/sea-freight.jpg",
   },
   {
     title: "Logistics Support",
     description:
       "End-to-end logistics assistance tailored to the requirements of each client, from transportation and coordination to related supply-chain needs.",
-    image: "/images/logistics-support.jpg",
+    image: "/images/air-freight.jpg",
   },
 ];
 

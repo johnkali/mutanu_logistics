@@ -30,7 +30,7 @@ export default function SiteFooter() {
 
             {/* WhatsApp */}
             <a
-              href="https://wa.me/254700000000"
+              href="https://wa.me/+254720997309"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-6 inline-flex items-center gap-2 text-sm font-medium text-white transition hover:text-[#d9232e]"
@@ -144,7 +144,9 @@ export default function SiteFooter() {
                 />
 
                 <span className="text-sm text-slate-300 transition group-hover:text-white">
-                  +254 700 000 000
+                  +27 711 049 465 | +27 635 11 22 85
+                  <br />
+                  Kenya: +254 720 997 309
                 </span>
               </a>
 
