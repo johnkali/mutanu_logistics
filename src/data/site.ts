@@ -27,6 +27,10 @@ export const siteConfig = {
       label: "Contact",
       href: "/contact",
     },
+     {
+      label: "References",
+      href: "/references",
+    },
   ],
 
   social: {
