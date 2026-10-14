@@ -1,7 +1,7 @@
 
 import { Download, ExternalLink, FileText } from "lucide-react";
 import type { ClientReference } from "../../data/references";
-import { useState } from "react";
+// import { useState } from "react";
 // import ReferenceViewer from "./ReferenceViewer";
 
 interface ReferenceCardProps {
